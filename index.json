@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "regions": [
+    {
+      "id": "kanpur",
+      "name": "Kanpur and surroundings (26.25-26.70N, 80.10-80.60E)",
+      "sizeBytes": 2032803,
+      "zipUrl": "https://raw.githubusercontent.com/Ashhar081/meera-map-data/main/regions/1-kanpur-region.zip",
+      "zipSha256": "be5b3582f3c6d43ea65a1b03cdad00f29ccdcd63b881635c99b640ed340b5d3e",
+      "schemaVersion": 1
+    }
+  ]
+}
